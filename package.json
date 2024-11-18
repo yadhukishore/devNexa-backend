@@ -1,0 +1,19 @@
+{
+  "name": "devnexa-backend",
+  "version": "1.0.0",
+  "description": "platform for developers",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Yadhukrishna PK",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
